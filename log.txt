@@ -1,0 +1,269 @@
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-24 23:48:35.469180
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-24 23:48:48.276803
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-24 23:54:38.893915
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-24 23:56:25.581151
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 00:01:21.356386
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 00:04:05.254656
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 00:06:05.716890
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 00:06:39.886245
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 00:08:14.236433
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 00:13:04.604925
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 00:13:25.100963
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 00:13:39.847006
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:12:05.292018
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:12:34.835539
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:13:41.128668
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:14:23.244458
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:48:36.089511
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:48:54.585574
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:55:11.541166
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:56:03.873370
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:57:43.153216
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 11:59:50.858847
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:21:15.939762
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:22:21.105982
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:22:42.772696
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:23:42.020686
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:25:47.973092
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:29:34.916621
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:33:22.001207
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:35:29.302494
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:40:10.765884
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 13:40:42.500370
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 14:12:11.684664
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 14:12:31.972101
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 14:14:14.194904
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 14:14:36.310346
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 14:22:45.428717
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 14:23:29.433799
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 14:40:34.328537
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:40:41.456177
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:44:12.152816
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:46:49.499892
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:47:25.918447
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:56:24.057615
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:57:16.431657
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:58:00.085138
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:58:57.866488
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 19:59:47.005752
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 20:00:54.401948
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 20:01:26.211702
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 20:06:01.207211
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 20:44:09.223002
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 20:53:02.474182
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 20:57:40.993156
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:02:03.251723
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:08:21.413352
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:08:40.923468
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:12:29.473540
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:13:22.518574
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:40:53.772710
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:41:56.865886
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:43:12.034032
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:44:03.234172
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:47:42.364877
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:52:05.405483
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:52:36.477566
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:53:11.629691
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 21:53:30.098726
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:16:55.586815
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:18:36.923008
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:20:39.266278
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:25:44.039855
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:26:20.037007
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:26:43.774103
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:27:37.401241
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:28:16.793469
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:28:44.223693
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:29:33.459877
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:38:06.372114
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:39:29.957299
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:42:24.253886
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:43:48.296122
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:48:42.891269
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:49:38.223477
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:51:04.616872
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:52:00.218102
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:52:31.165167
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:53:21.140484
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:54:41.316669
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:55:01.101708
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-25 23:55:37.210816
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:01:11.338750
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:03:28.728247
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:04:18.178612
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:05:56.424002
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:10:15.122742
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:10:56.692929
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:11:37.697999
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:14:00.338328
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:14:22.697370
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:18:11.149823
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:18:43.267988
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:19:19.925124
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:19:30.515161
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:20:27.958396
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-05-26 00:22:14.616903
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-04 14:41:43.394002
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-04 14:42:46.291218
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 00:54:55.465153
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:01:43.867551
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:02:10.819502
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:02:57.298588
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:05:08.540424
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:05:22.539050
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:05:48.960699
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:06:25.571446
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:08:03.630653
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:23:13.782681
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:23:38.481128
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:23:58.974370
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:24:21.443910
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 01:24:38.849174
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-05 15:04:02.059758
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/crudeoilupdated.csv at 2020-06-13 14:43:03.418134
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:07:29.903532
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:11:27.372544
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:12:32.560864
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:13:32.973473
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:14:17.444957
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:15:29.505523
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:16:59.917593
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:20:31.850195
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:20:53.481364
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:21:18.118066
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:54:08.327603
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:54:59.926860
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:56:05.348738
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-17 14:56:47.191128
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 00:49:47.187185
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 00:51:40.765261
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 00:54:42.310183
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 00:55:56.722227
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 00:59:41.783466
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:00:41.603898
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:01:29.400719
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:01:57.937269
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:02:26.130385
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:03:14.916982
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:04:06.718035
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:04:31.170602
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:08:58.456081
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:09:41.911486
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:28:17.265925
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:29:23.165695
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:29:49.256187
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:30:59.849225
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:32:23.558012
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:32:49.848516
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:33:04.586359
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:34:33.442441
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:35:20.474131
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:37:06.831215
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:37:45.353418
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:38:39.184497
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:41:05.741498
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:42:36.168670
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:49:43.355290
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:50:25.738466
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:50:53.697220
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:52:34.145948
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:54:41.561365
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:55:08.492681
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:55:47.754894
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 01:56:25.448867
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:00:18.356815
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:01:57.343550
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:02:55.878525
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:03:09.976152
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:03:56.434379
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:04:23.473304
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:04:46.630655
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:05:36.946796
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:06:23.158604
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:07:35.829051
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:08:58.160880
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:10:55.552448
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:23:01.413223
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:33:22.661674
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:35:07.556397
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:35:43.252191
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:37:30.873785
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:41:50.569409
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:43:08.208600
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:56:46.735977
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:57:14.449355
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 13:58:58.936800
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 14:00:32.516960
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 14:03:21.377319
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-19 17:54:08.227655
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-20 00:25:44.739347
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-20 00:27:04.752923
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-20 09:23:33.994429
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-20 09:29:50.883985
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-20 09:31:34.233897
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-20 09:36:42.651537
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-20 09:50:07.372124
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-23 00:30:14.807967
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-23 00:30:59.561526
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-23 00:31:52.948580
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-23 00:33:10.816034
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 05:17:40.714416
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 05:19:54.186836
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 05:20:23.677191
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 05:21:10.915806
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 15:05:47.115634
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 15:21:28.569096
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 15:32:33.256602
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 15:33:05.392952
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 15:33:28.507921
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 15:40:20.398188
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 15:41:51.796566
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 15:49:06.941827
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 18:07:15.369791
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 18:08:26.590637
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 18:28:46.133032
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 18:47:50.956728
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 21:31:52.811242
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 21:43:38.496815
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 21:55:30.057879
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-24 23:38:32.700746
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-26 10:15:10.109651
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 10:26:28.765137
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 11:58:18.206886
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 13:05:39.422756
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 21:53:05.955917
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 21:56:52.710431
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 21:59:36.496966
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 21:59:55.340105
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:00:17.553407
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:02:27.312665
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:03:00.635124
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:04:56.157759
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:07:58.049634
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:09:13.690059
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:10:07.194908
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:11:16.691992
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:11:59.014980
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:12:29.301913
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:30:27.245216
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:31:43.806650
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:32:25.804045
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:33:00.355025
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:33:28.347384
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:35:46.691147
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:38:35.063114
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-27 22:39:54.453555
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 00:35:14.326034
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 00:41:19.280946
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 12:43:05.965810
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 12:45:12.541593
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 12:45:49.953377
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 12:46:18.927180
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 12:47:53.328439
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 12:48:41.301445
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 12:52:04.847030
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 13:15:10.042659
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 13:17:37.016065
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 17:42:31.269801
+Loading file D:/Deep Lrning Code/Oil_Price_Prediction/data/Oil Price Monthly.csv at 2020-06-28 19:37:14.920205
